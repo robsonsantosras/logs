@@ -1,0 +1,5 @@
+boasentregas\accesslogs\repositories\AccessRepository.class
+boasentregas\accesslogs\service\implement\AccessServiceImpl.class
+boasentregas\accesslogs\models\AccessLogs.class
+boasentregas\accesslogs\service\AccessService.class
+boasentregas\accesslogs\api\Register.class
